@@ -39,6 +39,7 @@ Workshop day: 2-5 September 2024 (TBD)" align="left" color="warning" %}
 </div>  
 
 <div style="width: 100%; text-align: center; display: flex; justify-content: center; flex-wrap: wrap;"> 
+
 <div style="float: left; margin: 10px">
 <a href="https://alessant.github.io/">
   <img src="images/antelmi.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
@@ -46,8 +47,6 @@ Workshop day: 2-5 September 2024 (TBD)" align="left" color="warning" %}
   <span style="display: block; padding: 5%; text-align: center;"><a href="https://alessant.github.io/"><b>Alessia Antelmi</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>Università degli Studi di Torino</p></span>
 </div>
-
-
 <div style="float: left; margin: 10px">
 <a href="https://linktr.ee/andreafailla">
   <img src="assets/custom_images/failla.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
@@ -57,15 +56,12 @@ Workshop day: 2-5 September 2024 (TBD)" align="left" color="warning" %}
 </div>
 <div style="clear: both;"></div>
 </div>
-
-<br>
-
-<div style="width: 100%; text-align: center"> 
-<div style="width: 100%; padding-left: 20%; text-align: center; display: flex; justify-content: center; flex-wrap: wrap;">
 ---
 <div style="width: 100%; text-align: center"> 
 <b>Steering Committee</b>
-</div>  
+</div> 
+
+<div style="width: 100%; padding-left: 20%; text-align: center; display: flex; justify-content: center; flex-wrap: wrap;">
 <div style="float: left; margin: 10px">
 <a href="https://alessant.github.io/">
   <img src="images/cauteruccio.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
@@ -80,7 +76,7 @@ Workshop day: 2-5 September 2024 (TBD)" align="left" color="warning" %}
   <span style="display: block; padding: 5%; text-align: center;"><a href="https://alessant.github.io/"><b>Gennaro Cordasco</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>Università della Campania</p></span>
 </div>
-<div style="clear: both;"></div> <!-- Aggiungi questa linea -->
+<div style="clear: both;"></div> 
 <div style="float: left; margin: 10px">
 <a href="https://alessant.github.io/">
   <img src="images/Polato.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
@@ -95,7 +91,7 @@ Workshop day: 2-5 September 2024 (TBD)" align="left" color="warning" %}
   <span style="display: block; padding: 5%; text-align: center;"><a href="https://alessant.github.io/"><b>Giulio Rossetti</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>ISTI-CNR</p></span>
 </div>
-<div style="clear: both;"></div> <!-- Aggiungi questa linea -->
+<div style="clear: both;"></div>
 <div style="float: left; margin: 10px">
 <a href="https://linktr.ee/andreafailla">
   <img src="images/Spagnuolo.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
@@ -103,6 +99,6 @@ Workshop day: 2-5 September 2024 (TBD)" align="left" color="warning" %}
   <span style="display: block; padding: 5%; text-align: center;"><a href="https://linktr.ee/andreafailla"><b>Carmine Spagnuolo</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>Università degli Studi di Salerno</p></span>
 </div>
-<div style="clear: both;"></div> <!-- Aggiungi questa linea -->
+<div style="clear: both;"></div> 
 </div>
 </div>
