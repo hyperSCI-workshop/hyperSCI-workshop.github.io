@@ -49,7 +49,7 @@ Workshop day: 2-5 September 2024 (TBD)" align="left" color="warning" %}
 </div>
 <div style="float: left; margin: 10px">
 <a href="https://linktr.ee/andreafailla">
-  <img src="assets/custom_images/failla.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  <img src="images/failla.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
   <span style="display: block; padding: 5%; text-align: center;"><a href="https://linktr.ee/andreafailla"><b>Andrea Failla</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>Università di Pisa</p></span>
@@ -60,40 +60,40 @@ Workshop day: 2-5 September 2024 (TBD)" align="left" color="warning" %}
 <b>Steering Committee</b>
 </div> 
 <div style="float: left; margin: 10px">
-<a href="https://alessant.github.io/">
+<a href="https://www.francescocauteruccio.info/">
   <img src="images/cauteruccio.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href="https://alessant.github.io/"><b>Francesco Cauteruccio</b></a></span>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://www.francescocauteruccio.info/"><b>Francesco Cauteruccio</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>Università degli Studi di Salerno</p></span>
 </div>
 <div style="float: left; margin: 10px">
-<a href="https://alessant.github.io/">
+<a href="https://sites.google.com/site/cordasco/">
   <img src="images/Cordasco.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href="https://alessant.github.io/"><b>Gennaro Cordasco</b></a></span>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://sites.google.com/site/cordasco/"><b>Gennaro Cordasco</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>Università della Campania</p></span>
 </div>
 <div style="clear: both;"></div> 
 <div style="float: left; margin: 10px">
-<a href="https://alessant.github.io/">
-  <img src="images/Polato.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+<a href="https://makgyver.github.io/">
+  <img src="images/polato.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href="https://alessant.github.io/"><b>Mirko Polato</b></a></span>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://makgyver.github.io/"><b>Mirko Polato</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>Università degli Studi di Torino</p></span>
 </div>
 <div style="float: left; margin: 10px">
-<a href="https://alessant.github.io/">
-  <img src="images/Rossetti.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+<a href="https://giuliorossetti.github.io/">
+  <img src="images/rossetti.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href="https://alessant.github.io/"><b>Giulio Rossetti</b></a></span>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://giuliorossetti.github.io/"><b>Giulio Rossetti</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>ISTI-CNR</p></span>
 </div>
 <div style="clear: both;"></div>
 <div style="float: left; margin: 10px">
-<a href="https://linktr.ee/andreafailla">
-  <img src="images/Spagnuolo.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+<a href="https://spagnuolocarmine.github.io/">
+  <img src="images/spagnuolo.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href="https://linktr.ee/andreafailla"><b>Carmine Spagnuolo</b></a></span>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://spagnuolocarmine.github.io/"><b>Carmine Spagnuolo</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>Università degli Studi di Salerno</p></span>
 </div>
 <div style="clear: both;"></div> 
