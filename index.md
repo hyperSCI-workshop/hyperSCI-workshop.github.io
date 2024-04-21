@@ -8,6 +8,12 @@ layout: page
 ## 1st International Workshop on Theory and Applications of Hypernetwork Science
 
 **logo goes here**
+<div style="width: 100%; text-align: center; display: flex; justify-content: center; flex-wrap: wrap;">
+  <div style="float: left; margin: 10px">
+    <img src="images/hyperSCI_logo.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; ">
+  </div>
+</div>
+
 
 Traditionally, complex systems have been successfully studied through graphs abstracting the underlying relations with vertices and edges connecting pairs of interacting components. Yet, many real-world systems are characterized by group interactions that cannot be described simply in terms of dyads. Studying such systems requires new mathematical frameworks and scientific methodologies for its investigation. Hypergraphs are the perfect candidates to tackle this task, as these structures are a generalization of graphs where a (hyper)edge allows the connection of an arbitrary number of vertices. However, the powerful expressiveness of hypergraphs has a few drawbacks: dealing with the complexity of such data structures and the need for appropriate tools and algorithms for their study.
 
