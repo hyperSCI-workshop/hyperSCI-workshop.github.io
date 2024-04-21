@@ -37,22 +37,25 @@ Workshop day: 2-5 September 2024 (TBD)" align="left" color="warning" %}
 <div style="width: 100%; text-align: center"> 
 <b>Workshop Co-Chairs</b>
 </div>  
-<div style="float: left; margin: 10px">
+
+<div style="width: 100%; text-align: center;"> 
+<div style="display: block; margin: 10px">
 <a href="https://alessant.github.io/">
-  <img src="../../../../Downloads/hyperSCI-workshop.github.io-main/assets/custom_images/antelmi.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  <img src="assets/custom_images/antelmi.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
   <span style="display: block; padding: 5%; text-align: center;"><a href="https://alessant.github.io/"><b>Alessia Antelmi</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>Università degli Studi di Torino</p></span>
 </div>
 
-<div style="float: left; margin: 10px">
+
+<div style="display: block; margin: 10px">
 <a href="https://linktr.ee/andreafailla">
-  <img src="../../../../Downloads/hyperSCI-workshop.github.io-main/assets/custom_images/failla.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  <img src="assets/custom_images/failla.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
   <span style="display: block; padding: 5%; text-align: center;"><a href="https://linktr.ee/andreafailla"><b>Andrea Failla</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>Università di Pisa</p></span>
 </div>
-<div style="clear: both;"></div> <!-- Aggiungi questa linea -->
+<div style="clear: both;"></div> 
 </div>
 
 <br>
@@ -65,14 +68,14 @@ Workshop day: 2-5 September 2024 (TBD)" align="left" color="warning" %}
 <div style="width: 100%; padding-left: 20%; text-align: center">
 <div style="float: left; margin: 10px">
 <a href="https://alessant.github.io/">
-  <img src="../../../../Downloads/hyperSCI-workshop.github.io-main/assets/custom_images/antelmi.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  <img src="assets/custom_images/antelmi.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
   <span style="display: block; padding: 5%; text-align: center;"><a href="https://alessant.github.io/"><b>Francesco Cauteruccio</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>Università degli Studi di Salerno</p></span>
 </div>
 <div style="float: left; margin: 10px">
 <a href="https://alessant.github.io/">
-  <img src="../../../../Downloads/hyperSCI-workshop.github.io-main/assets/custom_images/antelmi.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  <img src="assets/custom_images/antelmi.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
   <span style="display: block; padding: 5%; text-align: center;"><a href="https://alessant.github.io/"><b>Gennaro Cordasco</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>Università della Campania</p></span>
@@ -80,14 +83,14 @@ Workshop day: 2-5 September 2024 (TBD)" align="left" color="warning" %}
 <div style="clear: both;"></div> <!-- Aggiungi questa linea -->
 <div style="float: left; margin: 10px">
 <a href="https://alessant.github.io/">
-  <img src="../../../../Downloads/hyperSCI-workshop.github.io-main/assets/custom_images/antelmi.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  <img src="assets/custom_images/antelmi.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
   <span style="display: block; padding: 5%; text-align: center;"><a href="https://alessant.github.io/"><b>Mirko Polato</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>Università degli Studi di Torino</p></span>
 </div>
 <div style="float: left; margin: 10px">
 <a href="https://alessant.github.io/">
-  <img src="../../../../Downloads/hyperSCI-workshop.github.io-main/assets/custom_images/antelmi.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  <img src="assets/custom_images/antelmi.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
   <span style="display: block; padding: 5%; text-align: center;"><a href="https://alessant.github.io/"><b>Giulio Rossetti</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>ISTI-CNR</p></span>
@@ -95,7 +98,7 @@ Workshop day: 2-5 September 2024 (TBD)" align="left" color="warning" %}
 <div style="clear: both;"></div> <!-- Aggiungi questa linea -->
 <div style="float: left; margin: 10px">
 <a href="https://linktr.ee/andreafailla">
-  <img src="../../../../Downloads/hyperSCI-workshop.github.io-main/assets/custom_images/failla.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  <img src="assets/custom_images/failla.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
   <span style="display: block; padding: 5%; text-align: center;"><a href="https://linktr.ee/andreafailla"><b>Carmine Spagnuolo</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>Università degli Studi di Salerno</p></span>
