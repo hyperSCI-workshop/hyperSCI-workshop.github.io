@@ -68,7 +68,7 @@ Workshop day: 2-5 September 2024 (TBD)" align="left" color="warning" %}
 </div>
 <div style="float: left; margin: 10px">
 <a href="https://sites.google.com/site/cordasco/">
-  <img src="images/Cordasco.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  <img src="images/cordasco.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
   <span style="display: block; padding: 5%; text-align: center;"><a href="https://sites.google.com/site/cordasco/"><b>Gennaro Cordasco</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>Università della Campania</p></span>
