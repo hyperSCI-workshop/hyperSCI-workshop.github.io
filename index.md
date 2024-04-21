@@ -34,12 +34,12 @@ Author Notification: July 10, 2024 (23:59 AoE)<br>
 Camera-ready: July 18, 2024 (23:59 AoE)<br>
 Workshop day: 2-5 September 2024 (TBD)" align="left" color="warning" %}
 
+
+
+<div style="width: 100%; text-align: center; display: flex; justify-content: center; flex-wrap: wrap;"> 
 <div style="width: 100%; text-align: center"> 
 <b>Workshop Co-Chairs</b>
 </div>  
-
-<div style="width: 100%; text-align: center; display: flex; justify-content: center; flex-wrap: wrap;"> 
-
 <div style="float: left; margin: 10px">
 <a href="https://alessant.github.io/">
   <img src="images/antelmi.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
@@ -56,12 +56,12 @@ Workshop day: 2-5 September 2024 (TBD)" align="left" color="warning" %}
 </div>
 <div style="clear: both;"></div>
 </div>
----
+</div>
+
+<div style="width: 100%; padding-left: 20%; text-align: center; display: flex; justify-content: center; flex-wrap: wrap;">
 <div style="width: 100%; text-align: center"> 
 <b>Steering Committee</b>
 </div> 
-
-<div style="width: 100%; padding-left: 20%; text-align: center; display: flex; justify-content: center; flex-wrap: wrap;">
 <div style="float: left; margin: 10px">
 <a href="https://alessant.github.io/">
   <img src="images/cauteruccio.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
