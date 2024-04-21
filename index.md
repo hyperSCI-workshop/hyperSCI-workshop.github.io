@@ -98,4 +98,3 @@ Workshop day: 2-5 September 2024 (TBD)" align="left" color="warning" %}
 </div>
 <div style="clear: both;"></div> 
 </div>
-</div>
