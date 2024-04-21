@@ -11,7 +11,7 @@ The final schedule and invited keynote speakers will be announced as soon as the
 
 ### Tentative Schedule
 
-SMS will be roughly organized as follows:
+HyperSCI will be roughly organized as follows:
 
 | Time          | Activity                 |
 |---------------|--------------------------|
