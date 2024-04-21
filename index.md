@@ -61,10 +61,6 @@ Workshop day: 2-5 September 2024 (TBD)" align="left" color="warning" %}
 <br>
 
 <div style="width: 100%; text-align: center"> 
----
-<div style="width: 100%; text-align: center"> 
-<b>Steering Committee</b>
-</div>  
 <div style="width: 100%; padding-left: 20%; text-align: center; display: flex; justify-content: center; flex-wrap: wrap;">
 ---
 <div style="width: 100%; text-align: center"> 
