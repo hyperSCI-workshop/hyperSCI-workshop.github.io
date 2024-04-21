@@ -3,22 +3,103 @@ title: Home
 layout: page
 ---
 
-# Bootstrap Workshop Template!
+# HyperSCI
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+## 1st International Workshop on Theory and Applications of Hypernetwork Science
 
-A minimal Jekyll theme with Bootstrap for creating workshop websites.
+**logo goes here**
 
-*Add your workshop abstract here!*
+Traditionally, complex systems have been successfully studied through graphs abstracting the underlying relations with vertices and edges connecting pairs of interacting components. Yet, many real-world systems are characterized by group interactions that cannot be described simply in terms of dyads. Studying such systems requires new mathematical frameworks and scientific methodologies for its investigation. Hypergraphs are the perfect candidates to tackle this task, as these structures are a generalization of graphs where a (hyper)edge allows the connection of an arbitrary number of vertices. However, the powerful expressiveness of hypergraphs has a few drawbacks: dealing with the complexity of such data structures and the need for appropriate tools and algorithms for their study.
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+Given the considerable potential and the growing interest of the research community in overcoming the challenges of exploiting hypergraphs and, more generally, high-order networks to unravel real-world group dynamics, we propose a workshop on Theory and Applications of Hypernetwork Science (HyperSCI) at the ASONAM Conference 2024. The goal of this workshop is to focus the attention of the ASONAM research community on addressing the open questions and challenges in this thriving research area. Given the broad range of competencies in the ASONAM community, the workshop will welcome methodological contributions as well as applications to real-world problems, tool implementations, and the development of reference hypergraphs that can serve as test beds.  We believe that instantiating one of the first workshops on hypernetwork science will inspire the community to share new ideas and development, addressing well-known challenges and identifying new ones.
 
-*See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.
+## Topics 
+Relevant papers cover one or more of the following topics:
+- Theoretical Aspects of Hypernetwork Science
+- Hypergraph Algorithms and Measures 
+- Multidimensional and Temporal Hypernetworks
+- Dynamics on and of Hypernetworks
+- Static and dynamic Hypernetwork clustering/community discovery
+- Hypergraph representation learning
+- Mining and learning in hypergraphs with missing information and noise
+- (Large-scale) Hypergraph visualization
+- Computational Tools and Libraries for Hypernetwork Science
+- Deep learning for Web hypergraphs
+- Online Social Hypernetwork Mining and Analysis
+- Applied Hypernetwork Science (cognition, economics, biology and medicine, engineering, etc.)
 
-{% include toc.html %}
+## Important Dates
+{% include alert.html text="Paper Submission: June 10, 2024 (23:59 AoE)<br>
+Author Notification: July 10, 2024 (23:59 AoE)<br>
+Camera-ready: July 18, 2024 (23:59 AoE)<br>
+Workshop day: 2-5 September 2024 (TBD)" align="left" color="warning" %}
 
-------
+<div style="width: 100%; text-align: center"> 
+<b>Workshop Co-Chairs</b>
+</div>  
+<div style="float: left; margin: 10px">
+<a href="https://alessant.github.io/">
+  <img src="../../../../Downloads/hyperSCI-workshop.github.io-main/assets/custom_images/antelmi.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  </a>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://alessant.github.io/"><b>Alessia Antelmi</b></a></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>Università degli Studi di Torino</p></span>
+</div>
 
-{% include template/credits.html %}
+<div style="float: left; margin: 10px">
+<a href="https://linktr.ee/andreafailla">
+  <img src="../../../../Downloads/hyperSCI-workshop.github.io-main/assets/custom_images/failla.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  </a>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://linktr.ee/andreafailla"><b>Andrea Failla</b></a></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>Università di Pisa</p></span>
+</div>
+<div style="clear: both;"></div> <!-- Aggiungi questa linea -->
+</div>
+
+<br>
+
+<div style="width: 100%; text-align: center"> 
+---
+<div style="width: 100%; text-align: center"> 
+<b>Steering Committee</b>
+</div>  
+<div style="width: 100%; padding-left: 20%; text-align: center">
+<div style="float: left; margin: 10px">
+<a href="https://alessant.github.io/">
+  <img src="../../../../Downloads/hyperSCI-workshop.github.io-main/assets/custom_images/antelmi.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  </a>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://alessant.github.io/"><b>Francesco Cauteruccio</b></a></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>Università degli Studi di Salerno</p></span>
+</div>
+<div style="float: left; margin: 10px">
+<a href="https://alessant.github.io/">
+  <img src="../../../../Downloads/hyperSCI-workshop.github.io-main/assets/custom_images/antelmi.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  </a>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://alessant.github.io/"><b>Gennaro Cordasco</b></a></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>Università della Campania</p></span>
+</div>
+<div style="clear: both;"></div> <!-- Aggiungi questa linea -->
+<div style="float: left; margin: 10px">
+<a href="https://alessant.github.io/">
+  <img src="../../../../Downloads/hyperSCI-workshop.github.io-main/assets/custom_images/antelmi.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  </a>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://alessant.github.io/"><b>Mirko Polato</b></a></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>Università degli Studi di Torino</p></span>
+</div>
+<div style="float: left; margin: 10px">
+<a href="https://alessant.github.io/">
+  <img src="../../../../Downloads/hyperSCI-workshop.github.io-main/assets/custom_images/antelmi.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  </a>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://alessant.github.io/"><b>Giulio Rossetti</b></a></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>ISTI-CNR</p></span>
+</div>
+<div style="clear: both;"></div> <!-- Aggiungi questa linea -->
+<div style="float: left; margin: 10px">
+<a href="https://linktr.ee/andreafailla">
+  <img src="../../../../Downloads/hyperSCI-workshop.github.io-main/assets/custom_images/failla.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+  </a>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://linktr.ee/andreafailla"><b>Carmine Spagnuolo</b></a></span>
+  <span style="display: block; margin-top: -10px; text-align: center;"><p>Università degli Studi di Salerno</p></span>
+</div>
+<div style="clear: both;"></div> <!-- Aggiungi questa linea -->
+</div>
+</div>
