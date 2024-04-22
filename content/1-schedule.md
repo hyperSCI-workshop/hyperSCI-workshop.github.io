@@ -21,6 +21,7 @@ HyperSCI will be roughly organized as follows:
 
 <br>
 The session will accomodate both oral and poster presentations.
+In case of a large number of submission, the workshop may be extended to the full day.
 
 ---
 
