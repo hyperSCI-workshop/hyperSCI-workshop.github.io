@@ -7,10 +7,10 @@ HyperSCI accepts several types of submissions for review, including:
 
 - *Full papers* (max 8 pages)
 - *Short papers* (max 5 pages)
-- *Extended Abstract/Posters* (max 2 pages)
+- *Extended Abstract* (max 2 pages)
 
 ### Submission Guidelines
-Authors are invited to submit original research papers which have not been published elsewhere and which are not currently under consideration for another journal, conference, or workshop.
+Authors are invited to submit original research papers which have not been published elsewhere and which are not currently under consideration for another journal, conference, or workshop. Extended abstracts may present work that can be already published, in preparation for publication elsewhere, or ongoing research.
 
 Paper submissions (full, short, and abstract) must use the [IEEE 2-column template](https://www.ieee.org/conferences/publishing/templates.html), including bibliography and appendices. Submissions should include the title, author(s), affiliation(s), e-mail address(es), tel/fax numbers, abstract, and postal address(es) on the first page. 
 
