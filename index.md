@@ -30,7 +30,9 @@ Relevant papers cover one or more of the following topics:
 - Applied Hypernetwork Science (cognition, economics, biology and medicine, engineering, etc.)
 
 ## Important Dates
-{% include alert.html text="Paper Submission: June 10, 2024 (23:59 AoE)<br>
+{% include alert.html text="Submission deadline extended to June 30 (23:59 AoE)!" align="left" color="info" %}
+
+{% include alert.html text="Paper Submission: June 30, 2024 (23:59 AoE)<br>
 Author Notification: July 10, 2024 (23:59 AoE)<br>
 Camera-ready: July 18, 2024 (23:59 AoE)<br>
 Workshop day: 2-5 September 2024 (TBD)" align="left" color="warning" %}
