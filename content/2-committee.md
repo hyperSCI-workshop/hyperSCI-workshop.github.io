@@ -14,7 +14,7 @@ Università degli Studi di Torino, Turin, Italy<br>
 Università di Pisa, ISTI-CNR, Pisa, Italy<br>
 <a href="mailto:andrea.failla@phd.unipi.it">andrea.failla@phd.unipi.it<a>
 
-### Steering Committee
+### General chairs
 - Francesco Cauteruccio, Università degli Studi di Salerno, Salerno, Italy
 - Gennaro Cordasco, Università della Campania “Luigi Vanvitelli”, Caserta, Italy
 - Mirko Polato, Università degli Studi di Torino, Turin, Italy

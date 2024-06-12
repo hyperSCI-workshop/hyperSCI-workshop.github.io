@@ -41,7 +41,7 @@ Workshop day: 2-5 September 2024 (TBD)" align="left" color="warning" %}
 
 <div style="width: 100%; text-align: center; display: flex; justify-content: center; flex-wrap: wrap;"> 
 <div style="width: 100%; text-align: center"> 
-<b>Workshop Co-Chairs</b>
+<b>Workshop Program Chairs</b>
 </div>  
 <div style="float: left; margin: 10px">
 <a href="https://alessant.github.io/">
@@ -60,7 +60,7 @@ Workshop day: 2-5 September 2024 (TBD)" align="left" color="warning" %}
 <div style="clear: both;"></div>
 
 <div style="width: 100%; text-align: center"> 
-<b>Steering Committee</b>
+<b>General chairs</b>
 </div> 
 <div style="float: left; margin: 10px">
 <a href="https://www.francescocauteruccio.info/">
