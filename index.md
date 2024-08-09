@@ -6,7 +6,7 @@ layout: page
 # HyperSCI
 ## 1st International Workshop on Theory and Applications of Hypernetwork Science
 <sup>[International Conference on Advances in Social Networks Analysis and Mining (ASONAM)](https://asonam.cpsc.ucalgary.ca/2024/)</sup><br>
-<sup>September 2-5, 2024</sup><br>
+<sup>September 4, 2024</sup><br>
 <sup>Rende (CS), Italy</sup>
 
 
@@ -35,7 +35,7 @@ Relevant papers cover one or more of the following topics:
 {% include alert.html text="Paper Submission: June 30, 2024 (23:59 AoE)<br>
 Author Notification: July 10, 2024 (23:59 AoE)<br>
 Camera-ready: July 18, 2024 (23:59 AoE)<br>
-Workshop day: 2-5 September 2024 (TBD)" align="left" color="warning" %}
+Workshop day: 4 September 2024 " align="left" color="warning" %}
 
 
 

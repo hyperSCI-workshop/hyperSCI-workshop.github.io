@@ -15,12 +15,15 @@ HyperSCI will be roughly organized as follows:
 
 | Time          | Activity                 |
 |---------------|--------------------------|
-| 09:00 - 09:10 | Welcome and Introduction |
-| 09:10 - 11:00 | Keynotes                 |
-| 10:00 - 13:00 | Accepted papers          |
+| 10:40 - 10:45 | Welcome and Introduction |
+| 10:45 - 11:45 | Keynote 1                |
+| 11:45 - 12:05 | First presentation       |
+| 12:05 - 12:25 | Second presentation      |
+|               |                          |
+| 16:05 - 16:55 | Keynote 2                |
+| 17:00 - 17:50 | Third presentation       |
+| 17:50 - 17:55 | Closing                  |
 
 ---
 
-### Keynote Speakers
-
-Keynote speakers will give talks on different facets of hypernetwork science. Would you like to hear a talk on a specific topic? Do you have the perfect HyperSCI keynote speaker in mind?  <a href="mailto:andrea.failla@phd.unipi.it">Contact us</a>! We are open to suggestions!
+### Keynote Speakers (TBA)
