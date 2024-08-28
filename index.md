@@ -35,9 +35,11 @@ Relevant papers cover one or more of the following topics:
 {% include alert.html text="Paper Submission: June 30, 2024 (23:59 AoE)<br>
 Author Notification: July 10, 2024 (23:59 AoE)<br>
 Camera-ready: July 18, 2024 (23:59 AoE)<br>
-Workshop day: 4 September 2024 " align="left" color="warning" %}
+Workshop day: September 4, 2024 " align="left" color="warning" %}
 
-
+{% include alert.html text="
+The final program is out! Check it [here](/program)" align="left" color="success" %}
+" align="left" color="info" %}
 
 <div style="width: 100%; text-align: center; display: flex; justify-content: center; flex-wrap: wrap;"> 
 <div style="width: 100%; text-align: center"> 
