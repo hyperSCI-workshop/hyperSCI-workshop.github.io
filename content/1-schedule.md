@@ -5,21 +5,19 @@ nav: true
 The workshop will be held within **September 4th, 2024.** 
 
 
-
-
 ### Tentative Schedule
 
-HyperSCI will be roughly organized as follows:
+Here is the final schedule for the workshop:
 
 | Time          | Activity                                                                                                                                    |
 |---------------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | 10:35 - 10:45 | Welcome and Introduction                                                                                                                    |
-| 10:45 - 11:45 | Keynote 1 (45+10) Timothy LaRock: Encapsulation Structure and Dynamics in Hypergraphs                                                       |
-| 11:40 - 12:05 | Presentation 1 (15+5) Francesco Cauteruccio: Heuristics for the Influence Maximization Problem on Hypergraphs                               |
-| 12:05 - 12:25 | Presentation 2 (15+5) Daniele De Vinco: Fifty Shapes of Reddit: Do Prolife Activists Have the Same Interaction Patterns of Gun Fanatics?    |
+| 10:45 - 11:45 | Keynote 1 (45+10) Timothy LaRock: <br/>Encapsulation Structure and Dynamics in Hypergraphs                                                       |
+| 11:40 - 12:05 | Presentation 1 (15+5) Francesco Cauteruccio: <br/>Heuristics for the Influence Maximization Problem on Hypergraphs                               |
+| 12:05 - 12:25 | Presentation 2 (15+5) Daniele De Vinco: <br/>Fifty Shapes of Reddit: Do Prolife Activists Have the Same Interaction Patterns of Gun Fanatics?    |
 |               |                                                                                                                                             |
-| 16:05 - 16:55 | Keynote 2 (45+10) Jussara Almeida: Applications of Network Backbone Extraction to Infer Information Dissemination Campaigns in Social Media |
-| 17:00 - 17:50 | Presentation 3 (45+5) Alessia Antelmi & Andrea Failla: Coding hypergraphs                                                                   |
+| 16:05 - 16:55 | Keynote 2 (45+10) Jussara Almeida: <br/>Applications of Network Backbone Extraction to Infer Information Dissemination Campaigns in Social Media |
+| 17:00 - 17:50 | Presentation 3 (45+5) Alessia Antelmi & Andrea Failla: <br/>Coding hypergraphs                                                                   |
 | 17:50 - 17:55 | Concluding Remarks                                                                                                                          |
 
 ---
@@ -32,6 +30,8 @@ HyperSCI will be roughly organized as follows:
 **Abstract**: Hypergraphs are a powerful modelling framework to represent systems where interactions may involve an arbitrary number of nodes. In this talk we will explore the extent to which smaller hyperedges are subsets of larger hyperedges in real-world and synthetic hypergraphs, a property that we call encapsulation. Building on the concept of line graphs, we develop measures to quantify the relations existing between hyperedges of different sizes and, as a byproduct, the compatibility of the data with a simplicial complex representation–whose encapsulation would be maximum. We then turn to the impact of the observed structural patterns on diffusive dynamics, focusing on a variant of threshold models, called encapsulation dynamics, and demonstrate that non-random patterns can accelerate the spreading in the system.
 
 **Bio**: [bio goes here]
+
+---
 
 #### J.M. Almeida: Applications of Network Backbone Extraction to Infer Information Dissemination Campaigns in Social Media
 
