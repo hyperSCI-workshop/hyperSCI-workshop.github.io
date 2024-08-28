@@ -38,7 +38,8 @@ Camera-ready: July 18, 2024 (23:59 AoE)<br>
 Workshop day: September 4, 2024 " align="left" color="warning" %}
 
 {% include alert.html text="
-The final program is out! Check it [here](/program)" align="left" color="success" %}
+The final program is out! Check it [here](/content/1-schedule.html)" align="left" color="success" %}
+
 
 <div style="width: 100%; text-align: center; display: flex; justify-content: center; flex-wrap: wrap;"> 
 <div style="width: 100%; text-align: center"> 
