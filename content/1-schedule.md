@@ -7,18 +7,21 @@ The workshop will be held within **September 4th, 2024.**
 
 ### Tentative Schedule
 
-Here is the final schedule for the workshop:
+Here is the final schedule for the workshop.
 
-| Time          | Activity                                                                                                                                    |
-|---------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| 10:35 - 10:45 | Welcome and Introduction                                                                                                                    |
+| Time          | Activity                                                                                                                                         |
+|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| 10:35 - 10:45 | Welcome and Introduction                                                                                                                         |
 | 10:45 - 11:45 | Keynote 1 (45+10) Timothy LaRock: <br/>Encapsulation Structure and Dynamics in Hypergraphs                                                       |
 | 11:40 - 12:05 | Presentation 1 (15+5) Francesco Cauteruccio: <br/>Heuristics for the Influence Maximization Problem on Hypergraphs                               |
 | 12:05 - 12:25 | Presentation 2 (15+5) Daniele De Vinco: <br/>Fifty Shapes of Reddit: Do Prolife Activists Have the Same Interaction Patterns of Gun Fanatics?    |
-|               |                                                                                                                                             |
+|               |                                                                                                                                                  |
 | 16:05 - 16:55 | Keynote 2 (45+10) Jussara Almeida: <br/>Applications of Network Backbone Extraction to Infer Information Dissemination Campaigns in Social Media |
 | 17:00 - 17:50 | Presentation 3 (45+5) Alessia Antelmi & Andrea Failla: <br/>Coding hypergraphs                                                                   |
-| 17:50 - 17:55 | Concluding Remarks                                                                                                                          |
+| 17:50 - 17:55 | Concluding Remarks                                                                                                                               |
+
+
+    
 
 ---
 
