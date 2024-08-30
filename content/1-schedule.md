@@ -32,7 +32,7 @@ Here is the final schedule for the workshop.
 
 **Abstract**: Hypergraphs are a powerful modelling framework to represent systems where interactions may involve an arbitrary number of nodes. In this talk we will explore the extent to which smaller hyperedges are subsets of larger hyperedges in real-world and synthetic hypergraphs, a property that we call encapsulation. Building on the concept of line graphs, we develop measures to quantify the relations existing between hyperedges of different sizes and, as a byproduct, the compatibility of the data with a simplicial complex representation–whose encapsulation would be maximum. We then turn to the impact of the observed structural patterns on diffusive dynamics, focusing on a variant of threshold models, called encapsulation dynamics, and demonstrate that non-random patterns can accelerate the spreading in the system.
 
-**Bio**: [bio goes here]
+**Bio**: Dr. Timothy LaRock is a postdoctoral researcher at the University of Oxford Mathematical Institute, where he studies the structure and dynamics of hypergraphs and simplicial complexes with Professor Renaud Lambiotte. Previously he earned his PhD from the Northeastern University Network Science Institute in 2022.
 
 ---
 
